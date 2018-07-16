@@ -11,6 +11,5 @@ public class Application {
         coffeeBusiness.addAddress(coffeeBusinessAddress);
         printBusiness.addAddress(printBusinessAddress);
         hotelBusiness.addAddress(hotelBusinessAddress);
-        System.out.println("Addresses :"+hotelBusiness.getAddresses());
     }
 }
